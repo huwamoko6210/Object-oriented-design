@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class Guitar {
     private String serialNumber;
     private String builder;
